@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'Mark Yang',
   description: '',
-  base: '/repo/',
+  base: '/my-website',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     // 上方導航欄
